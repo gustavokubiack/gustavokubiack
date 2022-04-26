@@ -1,4 +1,4 @@
-### <h1 align="center">Oi, meu nome é Gustavo Kubiack 👋 </h1>
+### <h1 align="center">Oi, meu nome é Gustavo Kubiack. 👋 </h1>
 
 <div align="center">
   <a href="https://github.com/gustavokubiack">
